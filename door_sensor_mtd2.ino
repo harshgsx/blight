@@ -1,5 +1,11 @@
+
+
+
+
+
+
 int ledPin = 13; //considering real light
-int inPin = 3;   //door open close reading from pin 2
+int inPin = 3;   //door open close reading from pin 3
 int counter = 0;   //counter variable
 int door_status = 0;   //for status of pin
 int a = 0;
